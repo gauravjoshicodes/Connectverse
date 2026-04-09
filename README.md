@@ -20,7 +20,6 @@
 |:---:|:---:|:---:|
 | ![Login](screenshots/login.png) | ![Home Light](screenshots/home-light.png) | ![Home Dark](screenshots/home-dark.png) |
 
-> 💡 *Add your own screenshots to the `screenshots/` folder*
 
 ---
 
